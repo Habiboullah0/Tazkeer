@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Heart, Share2, MessageSquare, RefreshCw, ChevronRight, Clock, Calendar, MapPin, Sun, Moon } from 'lucide-react';
+import { Heart, Share2, MessageSquare, RefreshCw, ChevronRight, Clock, Calendar, MapPin, Sun, Moon, Bell } from 'lucide-react';
 import { useQuranVerse, useHadith, usePrayerTimes } from '../hooks/useAPI';
 
 const HomeScreen = ({ 
