@@ -1,28 +1,28 @@
 {
-    "name": "Tazkeer",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test",
-        "eject": "react-scripts eject"
-    },
-    "keywords": [],
-    "author": "Habiboullah",
-    "license": "ISC",
-    "description": "",
-    "dependencies": {
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "react-scripts": "5.0.1",
-        "@headlessui/react": "^2.2.3",
-        "@heroicons/react": "^2.2.0",
-        "autoprefixer": "^10.4.21",
-        "axios": "^1.9.0",
-        "framer-motion": "^12.12.1",
-        "lucide-react": "^0.292.0",
-        "postcss": "^8.5.3",
-        "tailwindcss": "^4.1.7"
-    }
+  "name": "Tazkeer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "Habiboullah",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "5.0.1",
+    "@headlessui/react": "^2.2.3",
+    "@heroicons/react": "^2.2.0",
+    "autoprefixer": "^10.4.21",
+    "axios": "^1.9.0",
+    "framer-motion": "^12.12.1",
+    "lucide-react": "^0.511.0",
+    "tailwindcss": "^4.1.7",
+    "postcss": "^8.5.3"
+  }
 }
